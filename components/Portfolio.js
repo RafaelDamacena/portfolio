@@ -18,14 +18,14 @@ const items = [
   },
   {
     id: 2,
-    title: "Em Breve",
+    title: "Página Odontológica",
     type: "img",
     src: "",
     img: "assets/img/projects/project-2.jpg",
     project: "Website",
-    client: "Em Breve",
-    langages: "",
-    previewLink: "Em breve",
+    client: "Projeto Pessoal",
+    langages: "Html, CSS, JavaScript",
+    previewLink: "https://odontologia-orpin.vercel.app/",
   },
   {
     id: 3,
